@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://hamzachehaibi.com/sitemap.xml
+
+# Disallow certain files
+Disallow: /assets/cv.pdf
+Disallow: /*.js$
+Disallow: /*.css$
+
+# Allow important directories
+Allow: /assets/img/
+
