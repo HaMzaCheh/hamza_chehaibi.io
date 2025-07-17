@@ -5,7 +5,7 @@ Allow: /
 Sitemap: https://hamzachehaibi.com/sitemap.xml
 
 # Disallow certain files
-Disallow: /assets/cv.pdf
+Disallow: /assets/Hamza_CHEHAIBI.pdf
 Disallow: /*.js$
 Disallow: /*.css$
 
