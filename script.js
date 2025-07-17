@@ -154,7 +154,7 @@ const Hero = ({ data, language }) => {
         
         <div className="cta-buttons">
           <a 
-            href="./assets/cv.pdf" 
+            href="./assets/Hamza_CHEHAIBI.pdf" 
             className="btn btn-primary"
             download
             target="_blank"
